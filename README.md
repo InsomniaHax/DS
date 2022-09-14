@@ -1,3 +1,3 @@
 # DS
 
-Data structures written C++
+Data structures written in C++
